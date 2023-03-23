@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOAPTest", "SOAPTest\SOAPTest.csproj", "{650E92B6-B255-4BB1-AB6B-3DE023FA4FBA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestSharp1", "RestSharp1\RestSharp1.csproj", "{D2E63DC5-1F1B-4949-9E72-521D9BCF5185}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTTPClient", "HTTPClient\HTTPClient.csproj", "{30F83F89-4D16-4D6E-A8B9-34D932F34364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{650E92B6-B255-4BB1-AB6B-3DE023FA4FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650E92B6-B255-4BB1-AB6B-3DE023FA4FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650E92B6-B255-4BB1-AB6B-3DE023FA4FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650E92B6-B255-4BB1-AB6B-3DE023FA4FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E63DC5-1F1B-4949-9E72-521D9BCF5185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E63DC5-1F1B-4949-9E72-521D9BCF5185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E63DC5-1F1B-4949-9E72-521D9BCF5185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E63DC5-1F1B-4949-9E72-521D9BCF5185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F83F89-4D16-4D6E-A8B9-34D932F34364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F83F89-4D16-4D6E-A8B9-34D932F34364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F83F89-4D16-4D6E-A8B9-34D932F34364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F83F89-4D16-4D6E-A8B9-34D932F34364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A52DBEB9-1F89-4325-94C3-D261445F76D4}
+	EndGlobalSection
+EndGlobal
